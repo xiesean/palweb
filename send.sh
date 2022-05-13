@@ -1,0 +1,1 @@
+curl -H 'Content-Type:text/plain' --data-binary @urls.txt "http://data.zz.baidu.com/urls?site=https://serverless-page-bucket-2mxrpvxa-1253933558.cos-website.ap-shanghai.myqcloud.com&token=9K23MYYrobFcBiFL"
